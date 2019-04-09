@@ -4,7 +4,7 @@ Rails backend API for Single App front-end application.
 
 ## Author
 
-[Miftah MD](http://sumateradev.com)
+[Miftah MD](https://github.com/mitragroups)
 
 ## Setup
 
